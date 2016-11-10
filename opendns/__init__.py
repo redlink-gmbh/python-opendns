@@ -14,5 +14,5 @@
 
 __url__     = 'https://github.com/redlink-gmbh/python-opendns'
 __author__  = 'Sergio Fernandez <sergio.fernandez@redlink.co>'
-__version__ = '0.1.0'
+__version__ = '0.2.0.dev0'
 __license__ = 'Apache License, Version 2.0'
