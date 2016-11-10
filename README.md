@@ -4,11 +4,11 @@ Small set of utilities to work with [OpenDNS](https://www.opendns.com/) from Pyt
 
 # Setup
 
-Stable version:
+Stable version [from PyPI](https://pypi.python.org/pypi/opendns):
 
     pip install opendns
     
-Development version:
+Development version from the source code:
 
     pip install .
     
